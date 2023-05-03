@@ -30,6 +30,7 @@ body {
   }
   
   p {
+    font-family: Helvetica;
     color: aliceblue;
     line-height: 1.3em;
     text-align: left;
