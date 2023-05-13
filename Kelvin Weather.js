@@ -62,5 +62,5 @@ Use console.log and string interpolation to log the temperature in newton to the
 const kelvin = 0;
 //stores the value of celsius in 'celsius' by subtracting kelvin
 const celsius = kelvin - 273;
-
+//calculates fahrenheit through this formula
 var fahrenheit = celsius * (9 / 5 ) + 32;
