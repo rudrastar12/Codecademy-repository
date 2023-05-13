@@ -57,3 +57,5 @@ Newton = Celsius * (33/100)
 Round down the Newton temperature using the .floor() method
 Use console.log and string interpolation to log the temperature in newton to the console 
 */
+
+const kelvin = 0;
