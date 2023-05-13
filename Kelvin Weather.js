@@ -58,4 +58,5 @@ Round down the Newton temperature using the .floor() method
 Use console.log and string interpolation to log the temperature in newton to the console 
 */
 
+//this line of code stores a constant value to kelvin
 const kelvin = 0;
