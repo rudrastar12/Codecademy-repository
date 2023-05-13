@@ -66,3 +66,4 @@ const celsius = kelvin - 273;
 var fahrenheit = celsius * (9 / 5 ) + 32;
 //store fahrenheit value in 'fahrenheit' as a whole numnber
 fahrenheit = Math.floor(fahrenheit);
+console.log(`The temperature is ${fahrenheit} degrees fahrenheit`);
