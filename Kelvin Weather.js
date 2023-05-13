@@ -60,3 +60,5 @@ Use console.log and string interpolation to log the temperature in newton to the
 
 //this line of code stores a constant value to kelvin
 const kelvin = 0;
+
+const celsius = kelvin - 273;
